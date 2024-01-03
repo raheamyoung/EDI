@@ -1,0 +1,1 @@
+SELECT * FROM EDIMapping AS em WITH ( NOLOCK )  WHERE Folder = 'outbound\214\blujay' order by CustomerName, EDICode ASC

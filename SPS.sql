@@ -1,0 +1,1 @@
+select * from EDIPartnerFTPInfo where [Server] like '%sps%' 

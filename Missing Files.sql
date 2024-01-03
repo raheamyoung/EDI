@@ -1,0 +1,2 @@
+SELECT * FROM dbo.EDIInOutbound WITH (NOLOCK) 
+WHERE [Type]=204 AND CAST(RawEDIFile AS VARCHAR(max)) LIKE '%10012849%' and CreateDate > '20170619' 

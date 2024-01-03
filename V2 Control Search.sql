@@ -1,0 +1,1 @@
+SELECT * FROM dbo.EDIInboundTransactionFailure AS eitf WITH ( NOLOCK ) WHERE ControlNumber = 257555156

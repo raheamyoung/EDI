@@ -1,0 +1,1 @@
+SELECT * FROM Chargecode WITH ( NOLOCK ) ORDER BY Description ASC

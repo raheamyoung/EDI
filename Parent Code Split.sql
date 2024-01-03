@@ -1,0 +1,1 @@
+select * from EDIPartnerCodeLocationXref where ParentEDICode = 'rbtw'
